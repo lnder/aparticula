@@ -15,7 +15,7 @@
                <source src="assets/media/main.mp4" type="video/mp4"/>
             </video>
          </div>
-         <div class="overlay"></div> 
+         <div class="overlay"></div>
          <div class="content">
             <div class="container">
                      <div class="div-container">				        <div class="div-centro">							<div class="div-centro-content">								<div class="div-centro-texto-g">De la stratégie à l’environnement digital</div>								<!-- <div class="div-centro-texto-s">Création de site internet, application mobile, identité visuelle, conseil, accompagnement de projets</div> -->							</div>						</div>						<div class="div-logo"></div>
@@ -29,4 +29,8 @@
 <script>
 ahsuhaus
 </script>
+
 FILIPE
+
+OVO
+
