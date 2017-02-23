@@ -1,0 +1,30 @@
+/**aparticula css @leander*//
+
+
+header
+{	background: #EB516E;
+	color: #fff;	overflow: hidden;	padding: 30px 0;	position: relative;
+}
+@media (min-width: 768px)
+{
+	header
+	{
+		height: 100%;		min-height: 800px;
+	}
+}
+header .background img,header .background video
+{	
+	height: auto;	left: 0;	min-height: 100%;	min-width: 100%;	position: absolute;	top: 0;	width: auto;	position:absolute;
+	z-index: 0;}.div-centro{		margin: 0 auto;	width: 1089px;	height: 592px;}.div-centro:hover .div-centro-content{		background: #EB516E;	opacity: .9;	display: block;	top: 100px;}.div-centro-content {		display: none;	color: #FFF;	height: 530px;	margin: 0 auto;	}.div-centro-texto-g{		position: relative;	top: 50%;	transform: translateY(-50%); 	transform: translateY(-50%);		text-align: center;	font-size: 80px;	line-height: 90px;	font-family: 'Montserrat';	text-shadow: #000;	text-transform: uppercase;	text-shadow: 2px 2px 4px #000000;	padding-top: 60px;	padding-bottom: 60px;	}.div-centro-texto-s {		text-shadow: none;	font-size: 24px;	line-height: 43px;	font-family: Open Sans;	font-weight: 300	}
+@media (min-width:992px)
+{
+	header ul#countdown li span,header ul#countdown li.seperator
+	{
+		font-size: 8em;
+	}
+}
+body,html
+{
+	height: 100%;	width: 100%;	position: fixed;
+}.div-container {	top: 205px;	width: 100%;	float: left;	position: relative;    min-height: 1px;    padding-right: 18px;	display: block;	}/* .div-logo{	opacity: .5;	position:absolute;	width:440px;	height:100px;	left:115px;	top:540px;	background:#FFF;	z-index: 1;		}*/
+
